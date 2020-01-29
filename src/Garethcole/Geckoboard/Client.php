@@ -1,7 +1,7 @@
 <?php
 namespace Garethcole\Geckoboard;
 
-use Guzzle\Http\Client as Guzzle;
+use Guzzle\HttpClient as Guzzle;
 use Garethcole\Geckoboard\Widgets\Widget;
 
 /**
