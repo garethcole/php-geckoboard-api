@@ -1,5 +1,5 @@
 <?php
-namespace CarlosIO\Geckoboard\Widgets;
+namespace Garethcole\Geckoboard\Widgets;
 
 /**
  * Class Widget

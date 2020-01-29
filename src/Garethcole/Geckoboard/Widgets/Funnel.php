@@ -1,7 +1,7 @@
 <?php
-namespace CarlosIO\Geckoboard\Widgets;
+namespace Garethcole\Geckoboard\Widgets;
 
-use CarlosIO\Geckoboard\Widgets\Widget;
+use Garethcole\Geckoboard\Widgets\Widget;
 
 class Funnel extends Widget
 {

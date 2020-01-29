@@ -1,8 +1,8 @@
 <?php
-namespace CarlosIO\Geckoboard;
+namespace Garethcole\Geckoboard;
 
 use Guzzle\Http\Client as Guzzle;
-use CarlosIO\Geckoboard\Widgets\Widget;
+use Garethcole\Geckoboard\Widgets\Widget;
 
 /**
  * Class Client

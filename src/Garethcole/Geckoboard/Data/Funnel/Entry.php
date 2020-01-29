@@ -1,9 +1,9 @@
 <?php
-namespace CarlosIO\Geckoboard\Data\Funnel;
+namespace Garethcole\Geckoboard\Data\Funnel;
 
 /**
  * Class Entry
- * @package CarlosIO\Geckoboard\Data\Funnel
+ * @package Garethcole\Geckoboard\Data\Funnel
  */
 class Entry
 {
